@@ -1,6 +1,7 @@
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+## Live Demo: 
+Open [https://main--shimmering-chaja-aa7048.netlify.app/](https://main--shimmering-chaja-aa7048.netlify.app/) to view live demo.
 
 ## Available Scripts
 
